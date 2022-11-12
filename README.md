@@ -5,7 +5,7 @@ To try this extension
 ------------------------------------------------------------------------------------------------------------------------------
 - Clone this repository to local system
 
-  Git clone 
+  Git clone https://github.com/akhilpvijayan/QR-Coder.git
 
 - Open extensions in chrome
 - Turn on developer mode
